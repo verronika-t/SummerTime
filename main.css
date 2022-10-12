@@ -1,0 +1,146 @@
+﻿body {
+    padding: 0;
+    margin: 0;
+    background-image: url("sea.jpg");
+    font-family: fantasy;
+
+   
+}
+
+.navbar,
+.navbar-brand {
+    background: #6AB4D2;
+    font-size: x-large;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+.nav-link:hover {
+        color: #000;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+/*BEACHES*/
+
+.row {
+    margin: 20px;
+    align-content:center;
+}
+
+.thumbnail img {
+    width: 300px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.caption {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.thumbnail h3, .recommendation p {
+    color: azure;
+    text-shadow: 0 0 8px black;
+}
+
+/*INDEX*/
+.jumbotron {
+    font-size: x-large;
+    margin: 150px;
+    border: solid;
+    background-image: url(background-index.jpg);
+    background-repeat: inherit;
+    box-shadow: 10px 15px 5px 5px #6AB4D2;
+}
+
+.footer {
+    display: flex;
+    margin-left: 125px;
+    margin-bottom: 30px;
+}
+
+.video {
+    margin-right: 200px;
+}
+
+
+body > div.footer > div.place > div > p {
+    font-size: 30px;
+    color: azure;
+    text-shadow: 0 0 8px black;
+}
+
+/*CONTACT*/
+
+.contact {
+    padding: 20px;
+    margin-right: 180px;
+    margin-left: 180px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    border: double 5px black;
+    text-align: center;
+    background: rgba(235, 238, 210, 0.56);
+}
+
+.recommendation {
+    margin-left: 550px;
+    font-size: x-large;
+}
+
+.recommendation input, textarea {
+        width: 400px;
+        height: 300px;
+        background: rgba(235, 238, 210, 0.56);
+}
+
+/*ABOUT*/
+
+.about {
+    font-size: larger;
+    margin: 75px;
+    border: solid;
+    padding: 40px;
+    background: rgba(235, 238, 210, 0.56);
+}
+
+.about p:nth-child(1) {
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+    text-shadow: 0 0 8px black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about p:nth-child(2) {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.staff {
+    display: flex;
+}
+
+.staff div {
+        margin-left: 110px;
+        font-size: 20px;
+        font-family: fantasy;
+}
+
+.staff div img {
+        height: 350px;
+        width: 300px;
+        margin-bottom: 20px;
+}

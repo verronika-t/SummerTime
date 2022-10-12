@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{85E6C92C-1DA7-41E0-B535-41976A5717D7}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyWebSite FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="index.html" Line="1" Column="1" />
+      <File FileName="beaches.html" />
+      <File FileName="about.html" />
+      <File FileName="contact.html" />
+      <File FileName="main.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyWebSite" expanded="True">
+            <Node name="MyWebSite" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="index.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
